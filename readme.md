@@ -1,5 +1,5 @@
 [shouldWork](https://breck7.github.io/linktest/#shouldWork)
 
-[shouldBreak](/unknown.html#shouldBreak)
+[shouldBreak](/foobar/foo/#shouldBreak)
 
 [shouldWork](https://github.com)
